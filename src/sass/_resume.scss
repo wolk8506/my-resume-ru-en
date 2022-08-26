@@ -315,7 +315,23 @@ body {
 }
 
 @media print {
+
     .user_profile_lang {
         display: none;
     }
+
+    
+       
+
 }
+
+#BrowserPrintDefaults {
+    display: none
+}
+
+// @page {
+//     size: auto;
+//     /* auto is the initial value */
+//     margin: 0px 40px;
+//     /* this affects the margin in the printer settings */
+// }
