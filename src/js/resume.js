@@ -37,7 +37,7 @@ export default function render() {
         <li class="projects-item">
           <span class="my-projects-text">
             <a
-              href="https://wolk8506.github.io/my-resume/"
+              href="https://wolk8506.github.io/my-resume-ru-en/"
               class="my-projects-link"
               rel="noopener noreferrer"
               target="_blank"
