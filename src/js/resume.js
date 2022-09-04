@@ -121,7 +121,7 @@ export default function render() {
         <li class="projects-item">
           <span class="my-projects-text">
             <a
-              href="https://wolk8506.github.io/goit-react-hw-08-phonebook/"
+              href="https://wolk8506.github.io/phonebook/"
               class="my-projects-link"
               rel="noopener noreferrer"
               target="_blank"
@@ -129,6 +129,20 @@ export default function render() {
             ><span class="my-projects-bracket-line"></span>
             <span class="my-projects-bracket">[</span>
             <span class="my-projects-technology"> HTML5, CSS3, React</span>
+            <span class="my-projects-bracket">]</span>
+          </span>
+        </li>
+        <li class="projects-item">
+          <span class="my-projects-text">
+            <a
+              href="https://app.swaggerhub.com/apis-docs/wolk8506/qwerty/1.0.1#/"
+              class="my-projects-link"
+              rel="noopener noreferrer"
+              target="_blank"
+              >Phone book Contacts-API</a
+            ><span class="my-projects-bracket-line"></span>
+            <span class="my-projects-bracket">[</span>
+            <span class="my-projects-technology"> Node.js</span>
             <span class="my-projects-bracket">]</span>
           </span>
         </li>
