@@ -135,7 +135,7 @@ export default function render() {
         <li class="projects-item">
           <span class="my-projects-text">
             <a
-              href="https://app.swaggerhub.com/apis-docs/wolk8506/qwerty/1.0.1#/"
+              href="https://app.swaggerhub.com/apis-docs/wolk8506/connection-api/1.0.0"
               class="my-projects-link"
               rel="noopener noreferrer"
               target="_blank"
