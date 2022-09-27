@@ -128,6 +128,7 @@ export const langPage = [
       'React',
       'Node.js',
       'Figma',
+      'Jira',
     ],
     softSkillsTitle: 'Soft Skills',
     softSkills: [
@@ -217,6 +218,7 @@ export const langPage = [
       'React',
       'Node.js',
       'Figma',
+      'Jira',
     ],
     softSkillsTitle: 'Гибкие навыки',
     softSkills: [
